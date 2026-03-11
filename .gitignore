@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+backend/media/
+node_modules/
+frontend/.next/
